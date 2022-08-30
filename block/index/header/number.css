@@ -1,0 +1,16 @@
+ .number h3{
+  position: absolute;
+  width: 169px;
+  left: 763px;
+  top: 10px;
+    
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+    
+  display: flex;
+  align-items: center;
+  color:aliceblue;
+}

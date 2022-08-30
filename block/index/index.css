@@ -1,0 +1,15 @@
+@import url('/block/index/header/header.css');
+@import url('/block/index/header/number.css');
+@import url('/block/index/header/logo.css');
+@import url('/block/index/header/consultation.css');
+@import url('/block/index/header/menu.css');
+@import url('/block/index/main/inform-main.css');
+@import url('/block/index/sections/2adv/adv.css');
+
+
+body {
+    position: absolute;
+width: 1920px;
+height: 2166px;
+background: rgba(27, 27, 27, 1);
+}

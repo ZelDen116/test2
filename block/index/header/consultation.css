@@ -1,0 +1,19 @@
+.consultation{
+  position: absolute;
+  width: 306px;
+  left: 952px;
+  top: 23px;
+}
+
+.consultation button{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  background: #1B1B1B;
+  border: none;
+  color: #DA4533;
+}

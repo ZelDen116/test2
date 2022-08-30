@@ -1,0 +1,30 @@
+.menu {
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+position: absolute;
+width: 207px;
+height: 26px;
+left: 1361px;
+top: 24px;
+}
+.menu button {
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 160%;
+/* identical to box height, or 26px */
+
+display: flex;
+align-items: center;
+
+/* white */
+
+color: #FFFFFF;
+background: #1B1B1B;
+border: none;
+}

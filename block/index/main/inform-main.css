@@ -1,0 +1,121 @@
+.main{
+ display: grid;
+ grid-template-columns: 624px 624px;
+height: 560px;
+padding-left: 320px;
+}
+.inform-main{
+  /* background:red; */
+  grid-auto-columns: minmax(624px,1200px);
+ 
+}
+.img-main{
+  /* background:yellowgreen; */
+  grid-auto-columns: minmax(624px,1200px);
+}
+
+/* INFORM-MAIN-TEXTONE */
+
+.inform-main_textone {
+  position: absolute;
+  width: 260px;
+  height: 26px;
+  left: 66px;
+  top: 129px;
+  
+}
+.inform-main_textone h2{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  
+  color: #8A8A8A;
+}
+
+/* INFORM-MAIN-TEXTTWO */
+
+.inform-main_texttwo {
+  position: absolute;
+  width: 701px;
+  height: 148px;
+  left: 66px;
+  top: 183px;
+}
+
+.inform-main_texttwo h1{
+  font-family: 'STIX Two Text';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 55px;
+  line-height: 70%;
+
+  color: #FFFFFF;
+}
+
+.inform-main_vector1{
+  position: absolute;
+  left: 310px;
+  top: 30px;
+}
+
+.inform-main_vector2{
+  position: absolute;
+  left: 341px;
+  top: 175px;
+}
+
+/* INFORM-MAIN-TEXTTRE */
+
+.inform-main_texttre {
+  position: absolute;
+  width: 598px;
+  height: 58px;
+  left: 66px;
+  top: 377px;
+}
+
+.inform-main_texttre h2{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 80%;
+
+  color: #8A8A8A;
+}
+
+/* IMG-MAIN-MAIN2 */
+
+.img-main_main2{
+  position: absolute;
+  padding-left: 66px;
+  top: 253px;
+  bottom: 92.84%;
+}
+
+
+.inform-main__button_consultation button{
+  position: absolute;
+  left: 366px;
+
+top: 500px;
+width: 249px;
+height: 71px;
+border: none;
+border-radius: 90px/50px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 80%;
+
+color: #FFFFFF;
+
+background: #DA4533;
+}
